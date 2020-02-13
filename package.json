@@ -1,0 +1,10 @@
+{
+  "name": "example-of-writing-tailwind-config-with-type",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nju33/tailwindcss.d.ts": "^0.1.1",
+    "tailwindcss": "^1.2.0"
+  }
+}
